@@ -1,0 +1,2 @@
+# RationaleZahlen
+Übungsproject zur Objectprogrammierung 
